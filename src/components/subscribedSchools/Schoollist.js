@@ -30,7 +30,7 @@ class Schoollist extends Component {
                     </ul>
                 </div>
                 <div className="col-md-4 mt-5">
-                    <h4>Paid Users</h4>
+                    <paid-users></paid-users>
                 </div>
             </div>
         );
