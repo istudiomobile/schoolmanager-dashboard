@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+React App built to show admin data relative to School Manager Pro Windows 10 App. Plan is to build separate re-usable components built with Angular 8.
+
 ## Available Scripts
 
 In the project directory, you can run:
